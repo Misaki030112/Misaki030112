@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=1F6FEB&center=true&vCenter=true&width=720&lines=Hello%2C+I'm+Ausuka+Misaki+%F0%9F%91%8B;AI+Agents+%E2%80%A2+Streaming+Data;Based+in+Shanghai+%E2%80%94+Anime+%26+Books" alt="Typing intro" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Ausuka%20Misaki&fontAlign=50&fontAlignY=35&color=0:00C9FF,100:92FE9D&fontColor=0b1221" alt="header" />
 
-  <p><b>Shanghai • AI Agents • Streaming Systems</b></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=1F6FEB&center=true&vCenter=true&width=800&lines=Building+AI+agents+that+ship+%F0%9F%9A%80;Streaming+data%3A+Flink+%26+Kafka;Open+source+with+a+playful+spirit+%F0%9F%8E%A8;Anime+%26+books+keep+me+curious+%F0%9F%93%9A" alt="Typing intro" />
 
   <p>
     <a href="https://t.me/AusukaMisaki" title="Telegram">
@@ -15,24 +15,40 @@
 
 ---
 
+### About
+- Curious maker who reads AI books, sketches ideas, and ships small tools that spark joy ✨
+- Loves long anime runs and quiet bookstore afternoons — then pushes a release between chapters 📺📚
+- Enjoys conversations with different viewpoints to uncover blind spots and new angles 💬
+- Goes where interesting problems and good people are — not bound by location 🌍
+
 ### Now
 - 🧠 Learning Flink and Kafka for real‑time processing.
 - 🤖 Building practical, reliable AI agents.
-- 🧪 Open‑sourcing small tools that feel good.
+- 🧪 Open‑sourcing minimal tools that feel good.
 
 ### Spotlight
 - miaocha — enterprise log analysis with ms‑level search and intelligent insights.  
   Repo: https://github.com/Hinadt-Inc/miaocha
 
-### Stack
-🐍 Python · ☕ Java · 🔁 Flink/Kafka · 🐳 Docker · 🐧 Linux
+### Toolbox
+<div>
+  <img src="https://skillicons.dev/icons?i=python,java,docker,linux,git,githubactions,vscode&perline=8" alt="skills" />
+  <br/>
+  Data: Flink • Kafka
+</div>
 
 ### Stats
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Misaki030112&show_icons=true&theme=transparent&hide_title=true&hide_border=true" alt="stats" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Misaki030112&theme=transparent&hide_border=true" alt="streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Misaki030112&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="stats" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Misaki030112&theme=tokyonight&hide_border=true" alt="streak" />
+  <br/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misaki030112&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Misaki030112&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="trophies" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misaki030112&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </div>
 
 ---
 
-Always open to new ideas and different perspectives ✨
+Let’s build useful, playful software together. DM me on Telegram ✉️

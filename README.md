@@ -26,9 +26,6 @@
 - 🤖 Building practical, reliable AI agents.
 - 🧪 Open‑sourcing minimal tools that feel good.
 
-### Spotlight
-- miaocha — enterprise log analysis with ms‑level search and intelligent insights.  
-  Repo: https://github.com/Hinadt-Inc/miaocha
 
 ### Toolbox
 <div>
@@ -45,8 +42,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misaki030112&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="top langs" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Misaki030112&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="trophies" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misaki030112&theme=tokyo-night&hide_border=true" alt="activity graph" />
   <br/>
   <img src="https://raw.githubusercontent.com/Misaki030112/Misaki030112/output/snake.gif?v=2" alt="snake" />
 </div>

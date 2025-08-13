@@ -1,0 +1,37 @@
+name: contribution-snake
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake assets
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake
+          path: dist
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          target_branch: output
+          build_dir: dist
+

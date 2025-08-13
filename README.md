@@ -16,15 +16,17 @@
 ---
 
 ### About
-- Curious maker who reads widely, sketches ideas, and ships small tools that spark joy ✨
-- Long anime runs and quiet bookstore afternoons — sometimes a release lands between chapters 📺📚
-- Conversations with different viewpoints to uncover blind spots and new angles 💬
-- Drawn to interesting problems and kind teammates — wherever they are 🌍
+- Tinker-friendly builder who reads widely, doodles in the margins, and ships small tools that just feel nice to use ✨🛠️
+- Long anime arcs and quiet bookstore afternoons reset my brain — sometimes a release slips out between chapters 📺📚
+- Chats with people who see things differently help me spot blind corners and find better angles 💬
+- Drawn to interesting problems and kind teammates, wherever they are 🌍
+- Care about craft, calm productivity, and leaving things a little better 🍃
 
 ### Now
-- 🧠 Learning Flink and Kafka for real‑time processing.
-- 🤖 Building practical, reliable AI agents.
-- 🧪 Open‑sourcing minimal tools that feel good.
+- 🧠 Learning Flink + Kafka by wiring end‑to‑end real‑time pipelines (ingest → process → observe)
+- 🤖 Building agents that actually get work done — and fail gracefully
+- 🧪 Open‑sourcing minimal tools with good defaults, small footprints, and clear docs
+- ✍️ Writing short field notes: sketches, tiny write‑ups, and occasional benchmarks
 
 
 ### Toolbox

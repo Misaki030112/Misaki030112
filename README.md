@@ -48,11 +48,6 @@
   <img src="https://raw.githubusercontent.com/Misaki030112/Misaki030112/output/snake.gif?v=2" alt="snake" />
 </div>
 
-### Featured
-<a href="https://github.com/Hinadt-Inc/miaocha">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hinadt-Inc&repo=miaocha&theme=tokyonight&hide_border=true" alt="miaocha" />
-</a>
-
 ---
 
 Let’s build useful, playful software together. DM me on Telegram ✉️
